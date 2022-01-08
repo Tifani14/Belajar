@@ -1,0 +1,21 @@
+=================================================
+|	       KWITANSI PEMBAYARAN       	|
+|	        **** SEMBADA ****        	|
+-------------------------------------------------
+ No. Transaksi	:2140556167
+ Nama Penyewa	:Al
+ Jenis Mobil	:Daihatsu Xenia
+ Plat 		:AB3480ID
+ Jumlah hari	:2
+-------------------------------------------------
+ Jumlah sewa	:Rp800.000
+ Jumlah uang	:Rp1.000.000
+ Kembalian	:Rp200.000
+-------------------------------------------------
+		      LUNAS       		
+-------------------------------------------------
+ 	    SIMPAN BUKTI PEMBAYARAN !    	
+ ~Terimakasih Atas Kepercayaan Anda Kepada Kami~ 
+=================================================
+
+
